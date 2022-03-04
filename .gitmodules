@@ -1,0 +1,3 @@
+[submodule "NTHU-DS-Golang-Lab"]
+	path = NTHU-DS-Golang-Lab
+	url = git@github.com:allenyllee/NTHU-DS-Golang-Lab.git
