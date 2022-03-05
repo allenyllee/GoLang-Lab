@@ -3,3 +3,4 @@
 	url = git@github.com:allenyllee/NTHU-DS-Golang-Lab.git
 [submodule "NTHU-Distributed-System"]
 	path = NTHU-Distributed-System
+	url = https://github.com/NTHU-LSALAB/NTHU-Distributed-System.git
