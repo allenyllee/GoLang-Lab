@@ -7,3 +7,5 @@
 [submodule "raft"]
 	path = raft
 	url = git@github.com:justin0u0/raft.git
+[submodule "reedsolomon"]
+	path = reedsolomon
