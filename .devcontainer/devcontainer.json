@@ -35,7 +35,8 @@
 		"golang.Go",
 		"mhutchie.git-graph",
 		"bongnv.go-custom-format",
-		"chrisdias.vscode-opennewinstance"
+		"chrisdias.vscode-opennewinstance",
+		"ebicochineal.select-highlight-cochineal-color"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
