@@ -34,7 +34,8 @@
 	"extensions": [
 		"golang.Go",
 		"mhutchie.git-graph",
-		"bongnv.go-custom-format"
+		"bongnv.go-custom-format",
+		"chrisdias.vscode-opennewinstance"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
