@@ -9,3 +9,4 @@
 	url = git@github.com:justin0u0/raft.git
 [submodule "reedsolomon"]
 	path = reedsolomon
+	url = https://github.com/klauspost/reedsolomon.git
